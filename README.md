@@ -1,2 +1,4 @@
 # zig-snippets
-zig
+
+- https://github.com/YoungHaKim7/zig_lang_exercises
+
